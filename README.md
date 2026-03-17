@@ -44,7 +44,7 @@ The dashboards help answer key business questions such as:
 - Order Status Distribution  
 - Orders by Vehicle Type  
 - Orders by Hub  
-![]
+![](https://github.com/Harshad820/logistics-operations-powerbi-dashboard/blob/main/Dashboard/Screenshot%202026-03-16%20155659.png)
 ---
 
 ### 2️⃣ Driver Performance Dashboard
@@ -53,7 +53,7 @@ The dashboards help answer key business questions such as:
 - Top Performing Drivers  
 - Driver Performance Table  
 - Driver Employment Type Distribution  
-![]
+![](https://github.com/Harshad820/logistics-operations-powerbi-dashboard/blob/main/Dashboard/Screenshot%202026-03-16%20155710.png)
 ---
 
 ### 3️⃣ Vehicle Utilization Dashboard
@@ -63,7 +63,7 @@ The dashboards help answer key business questions such as:
 - Orders by Vehicle Type  
 - Vehicle Usage Trend  
 - Vehicle Status Breakdown  
-![]
+![](https://github.com/Harshad820/logistics-operations-powerbi-dashboard/blob/main/Dashboard/Screenshot%202026-03-16%20155734.png)
 ---
 
 ## 📈 Key Insights
